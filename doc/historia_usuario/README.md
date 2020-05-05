@@ -1,3 +1,11 @@
+## Diagramas
+ - DER: E-Commerce
+ 
+ - DFD: Fluxo do Pedido
+ 
+ - Diagrama de Classe: Fluxo do Pedido
+ 
+
 ## Personas
  - Consumidor: Cliente que irá consumir as refeições
  
