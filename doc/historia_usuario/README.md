@@ -12,7 +12,7 @@
 
 **Quero** O QUE?
 
-**para** PROPOSITO?
+**Para** PROPOSITO?
 
 __
 
