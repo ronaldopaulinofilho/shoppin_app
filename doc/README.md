@@ -7,8 +7,8 @@
 ## Descrição da solução
  - Relato da solução tecnológica proposta.
 
-## [Diagramas](doc/tecnica/README.md)
+## [Diagramas](/doc/tecnica/README.md)
 
-## [Histórias de Usuário](doc/historia_usuario/README.md)
+## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
-## [Prototipação](doc/prototipacao/README.md)
+## [Prototipação](/doc/prototipacao/README.md)
