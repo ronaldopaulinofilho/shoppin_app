@@ -1,17 +1,8 @@
-## Diagramas
- - DER: E-Commerce
- 
- - DFD: Fluxo do Pedido
- 
- - Diagrama de Classe: Fluxo do Pedido
- 
-
-## Personas
+## Mapeamento das Personas
  - Consumidor: Cliente que irá consumir as refeições
  
  - Chef: Quem irá cozinhar os pratos a serem entregues
  
-
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
 
 ### **História 1:**
@@ -29,10 +20,10 @@ __
 
 **Cenário 1: XYZ**
 
-**DADO QUE** ?? 
+**Dado que** ?? 
 
-**QUANDO**   ??
+**Quando**   ??
 
-**ENTÃO**    ??
+**Então**    ??
 
 __
