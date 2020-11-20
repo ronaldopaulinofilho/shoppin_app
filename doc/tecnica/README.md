@@ -1,6 +1,6 @@
 ## Diagramas
 
-* [Diagram de Caso de Uso ... Funcioanalidades](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
+* Diagram de Caso de Uso ... Funcioanalidades
 ![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
 
 [Diagram de Caso de Uso ... Funcioanalidades](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
