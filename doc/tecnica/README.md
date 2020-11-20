@@ -6,6 +6,8 @@
 
 * Diagrama de Fluxo de Dados ou Diagrama de Atividades
 
+![](https://diariouml.files.wordpress.com/2014/04/modelagem_4.jpg)
+
 * Diagrama de Classe
 
 * Diagrama Entidade Relacional (ER)
